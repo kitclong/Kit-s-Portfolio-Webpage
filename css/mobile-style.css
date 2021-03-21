@@ -21,13 +21,13 @@
 
 /* NEED TO INSPECT TO CORRECT NON RESPONSIVE PAGE */
 
-/* @media only screen and(max-width: 375px) {
+@media only screen and(max-width: 375px) {
     .section-1 .row .col-md-6 .panel {
-        margin-left: +25vmin;
+        margin-left: 0;
     }
 
     .section-2 .work {
-        margin-right: +14vmin;
+        margin-right: 0;
         display: flex;
         flex-direction: column;
         align-content: center;
@@ -40,4 +40,4 @@
     .section-2 .card {
         width: 18rem;
     }
-} */
+}
