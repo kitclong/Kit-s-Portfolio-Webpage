@@ -1,6 +1,6 @@
-/* This creates a separate style for easier responsive edits at various screen sizes */
+/* This creates a separate style for easier responsive edits at various screen sizes
 /* NEED TO REVISIT AND MAKE RESPONSIVE */
-@media only screen and(max-width: 768px) {
+/* @media only screen and(max-width: 768px) {
     header .navbar-brand {
         padding-left: 1rem;
     }
@@ -21,7 +21,7 @@
 
 /* NEED TO INSPECT TO CORRECT NON RESPONSIVE PAGE */
 
-@media only screen and(max-width: 375px) {
+/* @media only screen and(max-width: 375px) {
     .section-1 .row .col-md-6 .panel {
         margin-left: 0;
     }
@@ -40,4 +40,4 @@
     .section-2 .card {
         width: 18rem;
     }
-}
+}  */
